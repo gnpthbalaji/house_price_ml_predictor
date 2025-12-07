@@ -3,5 +3,10 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+plotly
 jupyter
+ipywidgets
+scipy
+statsmodels
 joblib
+openpyxl
