@@ -9,4 +9,5 @@ ipywidgets
 scipy
 statsmodels
 joblib
+missingno
 openpyxl
