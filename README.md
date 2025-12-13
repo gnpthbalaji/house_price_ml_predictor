@@ -1,5 +1,11 @@
 # Project: Predicting Housing Prices in King County
 
+## Notebooks
+
+- [EDA](notebooks/01_exploratory_data_analysis.ipynb)
+- [Model Building](notebooks/02_model_building.ipynb)
+- [Model Evaluation](notebooks/03_model_eval.ipynb)
+
 ## Dataset
 
 We will use the **King County House Sales dataset**:  
